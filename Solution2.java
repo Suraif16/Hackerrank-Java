@@ -21,7 +21,7 @@ public class Solution2 {
                 {
                     System.out.print("Weird");
                 }
-                else 
+                else
                 {
                     System.out.print("Not Weird");
                 }
